@@ -1,7 +1,7 @@
 ## Hola soy Ethan Almaraz y soy estudiante de ingeniería en computación 
- Estoy aprendiendo Python y C++, me interesa el desarrollo de aplicaciones móviles y páginas web, me gusta aprender de todo lo relacionado con la tecnología.
--Mis pasatiempos son: Jugar videojuegos, escuchar música, hacer deporte, aprender de cultura en general y salir con amigos.
--Tengo varios proyectos a futuro, uno de ellos es terminar la universidad con buen promedio y con mucha experiencia, además tener proyectos independientes como hacer   cursos de computación básica, crear aplicaciones y trabajar en proyectos relacionados con redes.
+Estoy aprendiendo Python y C++, me interesa el desarrollo de aplicaciones móviles y páginas web, me gusta aprender de todo lo relacionado con la tecnología.//
+-Mis pasatiempos son: Jugar videojuegos, escuchar música, hacer deporte, aprender de cultura en general y salir con amigos.//
+-Tengo varios proyectos a futuro, uno de ellos es terminar la universidad con buen promedio y con mucha experiencia, además tener proyectos independientes como hacer   cursos de computación básica, crear aplicaciones y trabajar en proyectos relacionados con redes.//
 -Si quieres contactarme en mi perfil está en link de mi linkedin o mis redes sociales.
 <!--
 **ethanalmaraz1259/ethanalmaraz1259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
